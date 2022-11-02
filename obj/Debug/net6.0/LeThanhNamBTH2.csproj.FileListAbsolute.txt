@@ -1,0 +1,8 @@
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.csproj.AssemblyReference.cache
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.AssemblyInfoInputs.cache
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.AssemblyInfo.cs
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.csproj.CoreCompileInputs.cache
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.MvcApplicationPartsAssemblyInfo.cache
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.RazorAssemblyInfo.cache
+C:\PTPMQL\LeThanhNamBTH2\obj\Debug\net6.0\LeThanhNamBTH2.RazorAssemblyInfo.cs
